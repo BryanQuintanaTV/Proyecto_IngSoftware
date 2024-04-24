@@ -49,3 +49,5 @@ En el archivo de 📄hosts poner lo siguiente
 127.0.0.1	   admincopacabana.com
 127.0.0.1	   apicopacabana.com
 ```
+> [!CAUTION]
+> La base de datos a utilizar esta almacenada en la nube y no es la versión final, por lo que la base de datos será modificada en su totalidad
